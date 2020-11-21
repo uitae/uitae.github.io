@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Hello, Jekyll"
-date:   2019-05-23 21:03:36 +0530
+title:  "프로젝트 선정과정"
+date:   2020-11-21 20:47:21 +0530
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+ 각자 주제 한가지씩을 정하고 어떤 주제가 좋을지 토론하였다. 뉴스크롤러에 간단한 기능 추가 및 크롤링 결과 추출 및 정리, 파이게임에 기능추가하기, 라이브러리/API 번역, 텔레그램 오픈소스를 이용하여 간단한 기능 추가 및 분석, 알고리즘 정리, shell script로 유닉스 명령어 구현의 총 6가지의 가지각색인 분야의 주제들 중 뉴스크롤러와 라이브러리/API 번역이 선정되었다.
 
-![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
+ 제공된 뉴스크롤러를 분석하고 핵심문장을 추가하는 기능을 추가하거나, 크롤링한 결과를 정리하는 것을 목표로 한다. 크롤러를 사용해보지 않은 팀원들도 있고, 많이 다뤄본 팀원은 없어서 진입장벽이 낮지않고, 단순히 뉴스 댓글 크롤러만을 주제로 한다면 단편적이고 단순한 결과물만 생길 수도 있어 크롤러에 기능을 추가하는 데 그치지 않고 크롤링한 댓글들을 어떤 식으로 통계내고, 어떤 기준으로 정리할 것인지 계획을 확실하게 짜야 할 필요성이 있다.
+ 
+ 라이브러리/API 번역은 여러가지 라이브러리와/API의 영문서들을 한글로 번역하고 구조를 분석하여 보기 좋게 정리한 뒤, 이해를 바탕으로 예제코드를 작성해보고 후에 팀프로젝트나 과제를 위해 개발을 할 때 어떤 식으로 도움이 될 수 있을지 정리하는 것을 목표로 한다. 오픈소스로 제공되는 API는 매우 많으므로 범위가 방대해 많은 것을 배울 수 있으나 자칫하면 얇고 넓게 조사만하다 팀프로젝트가 끝날 수 있다는 위험성이 있다.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+
